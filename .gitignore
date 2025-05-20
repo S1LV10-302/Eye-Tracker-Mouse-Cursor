@@ -1,0 +1,11 @@
+
+eye-tracking-env/
+build/
+dist/
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VS Code settings (optional)
+.vscode/
